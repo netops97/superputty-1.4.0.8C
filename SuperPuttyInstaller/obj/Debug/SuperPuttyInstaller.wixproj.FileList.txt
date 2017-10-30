@@ -1,0 +1,14 @@
+C:\Users\Dragon\Documents\Visual Studio 2017\Projects\superputty-1.4.0.8A\SuperPuttyInstaller\bin\Debug\SuperPuttySetup.msi
+C:\Users\Dragon\Documents\Visual Studio 2017\Projects\superputty-1.4.0.8A\SuperPuttyInstaller\bin\Debug\SuperPuttySetup.wixpdb
+C:\Users\082907\Documents\Visual Studio 2013\Projects\superputty-1.4.0.8A\SuperPuttyInstaller\bin\Debug\SuperPuttySetup.msi
+C:\Users\082907\Documents\Visual Studio 2013\Projects\superputty-1.4.0.8A\SuperPuttyInstaller\bin\Debug\SuperPuttySetup.wixpdb
+C:\Users\Dragon\Documents\Visual Studio 2017\Projects\superputty-1.4.0.8B\SuperPuttyInstaller\bin\Debug\SuperPuttySetup.msi
+C:\Users\Dragon\Documents\Visual Studio 2017\Projects\superputty-1.4.0.8B\SuperPuttyInstaller\bin\Debug\SuperPuttySetup.wixpdb
+C:\Users\082907\Documents\Visual Studio 2013\Projects\superputty-1.4.0.8C\SuperPuttyInstaller\bin\Debug\SuperPuttySetup.msi
+C:\Users\082907\Documents\Visual Studio 2013\Projects\superputty-1.4.0.8C\SuperPuttyInstaller\bin\Debug\SuperPuttySetup.wixpdb
+C:\Users\Dragon\Documents\Visual Studio 2017\Projects\superputty-1.4.0.8C\SuperPuttyInstaller\bin\Debug\SuperPuttySetup.msi
+C:\Users\Dragon\Documents\Visual Studio 2017\Projects\superputty-1.4.0.8C\SuperPuttyInstaller\bin\Debug\SuperPuttySetup.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\SuperPuttyInstaller.wixproj.BindContentsFileListnull.txt
+obj\Debug\SuperPuttyInstaller.wixproj.BindOutputsFileListnull.txt
+obj\Debug\SuperPuttyInstaller.wixproj.BindBuiltOutputsFileListnull.txt

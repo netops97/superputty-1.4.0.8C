@@ -1,0 +1,2 @@
+C:\Users\Dragon\Documents\Visual Studio 2017\Projects\superputty-1.4.0.8C\SuperPuttyInstaller\bin\Debug\SuperPuttySetup.msi
+C:\Users\Dragon\Documents\Visual Studio 2017\Projects\superputty-1.4.0.8C\SuperPuttyInstaller\bin\Debug\SuperPuttySetup.wixpdb
