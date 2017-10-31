@@ -19,7 +19,7 @@
  * THE SOFTWARE.
  * 
  * Change inventory:
- * Paye change #2, #3 & #4
+ * Change #2, #3 & #4
  * 
  */
 
@@ -60,7 +60,7 @@ namespace SuperPutty
         static BindingList<SessionData> sessionsList = new BindingList<SessionData>();
         static bool? isFirstRun;
 
-        // Paye Change #2: Added static variables to store userid & password captured
+        // Change #2: Added static variables to store userid & password captured
         // during the first connectBar session. passwordCap is TRUE after 
         // userid & password are captured during first toolbar session.
         public static bool passwordCap = false;
@@ -93,8 +93,9 @@ namespace SuperPutty
                 // load data                
                 LoadLayouts();
  
-                // Paye Change #3: let's not load previous sessions
-                //LoadSessions();                
+                // Change #3: Let's not load previous sessions. This avoids restoring sessions
+                // that will won't have credentials.
+                // LoadSessions();                
 
                 // determine starting layout, if any.  CLI has priority
                 if (CommandLine.IsValid)
@@ -437,7 +438,7 @@ namespace SuperPutty
             if (GetSessionById(session.SessionId) == null)
             {
  
-                // Paye Change #4: Storing userid and password in class variables.
+                // Change #4: Storing userid and password in class variables.
                 session.Username = SuperPuTTY.UserID;
                 session.Password = SuperPuTTY.Password;
 

@@ -20,7 +20,7 @@
  * THE SOFTWARE.
  * 
  * Change inventory:
- * Paye change #1
+ * Change #1
  * 
  */
 
@@ -65,7 +65,7 @@ namespace SuperPutty
             m_ApplicationExit = callback;
             m_puttyStartInfo = new PuttyStartInfo(session);
 
-            // Paye Change #1: hook to save the USERID and PW of the first
+            // Change #1: hook to save the USERID and PW of the first
             // ConnectBar Session in static variables of class SuperPuTTY.
             if (SuperPuTTY.passwordCap != true)
             {
